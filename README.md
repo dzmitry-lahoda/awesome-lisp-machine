@@ -55,5 +55,4 @@ A curated list of awesome Lisp Machine and Lisp Operating System stuff.
 - [Lambda Lisp operating system](https://github.com/dseagrav/Lambda-system-software) - This repository is for tracking issues in and changes to the LMI Lambda operating system software.
 - [DreamOS](https://github.com/AviaNick/DreamOS) - Small x86 OS written by David Joseph Stith in Scheme.
 - [flip](https://github.com/nakst/flip) - A 16-bit Lisp based operating system.
-
-
+- [PantherX](https://www.pantherx.org/) - A practical operating system based on GNU Guix
